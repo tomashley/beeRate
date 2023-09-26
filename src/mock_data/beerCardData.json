@@ -1,0 +1,23 @@
+[
+  {
+      "title": "Heineken",
+      "description": "5% full-bodied premium lager with deep golden colour, a mild bitter taste and a balanced hop aroma leaving a crisp, clean finish for ultimate refreshment",
+      "image": "/images/heineken.jpeg"
+  },
+  {
+      "title": "Kronenbourg",
+      "description": "Premium Beer. https://www.k1664.co.uk/nutrition/. Brewed with the unique strisselspalt aroma hops from Alsace",
+      "image": "/images/kronenbourg.jpeg"
+  },
+  {
+      "title": "Cobra",
+      "description": "Beer. Cobra Foundation Founded in 2005 providing support for communities in South Asia. Cobra Premium 4.5% Lager",
+      "image": "/images/cobra.jpeg"
+  },
+  {
+      "title": "Brewdog Punk IPA",
+      "description": "Bursts of caramel and tropical fruit with an all-out riot of grapefruit, pineapple and lychee, precede a spiky bitter finish. ",
+      "image": "/images/brewdog_punkipa.jpeg"
+  }
+]
+
