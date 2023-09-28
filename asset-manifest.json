@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/beeRate/static/css/main.6f600c73.css",
+    "main.js": "/beeRate/static/js/main.0d67a502.js",
+    "static/js/787.2fb7e7b7.chunk.js": "/beeRate/static/js/787.2fb7e7b7.chunk.js",
+    "index.html": "/beeRate/index.html",
+    "main.6f600c73.css.map": "/beeRate/static/css/main.6f600c73.css.map",
+    "main.0d67a502.js.map": "/beeRate/static/js/main.0d67a502.js.map",
+    "787.2fb7e7b7.chunk.js.map": "/beeRate/static/js/787.2fb7e7b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f600c73.css",
+    "static/js/main.0d67a502.js"
+  ]
+}
