@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import BeerCard from "./beerCard";
-import supabase from "../supabase";
+import { supabase } from "../supabase";
 
 
 function BeerCardList() {
